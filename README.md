@@ -12,8 +12,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" /> &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="48" alt="Flask" /> &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="48" alt="Three.js" /> </p>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="48" alt="Three.js" /> 
+</p>
 ---
 
 ### 🧭 About Me
@@ -51,5 +51,4 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luniballony&show_icons=true&hide_title=true&hide_border=true&bg_color=ffffff00&text_color=333&icon_color=6c63ff" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=luniballony&theme=default&hide_border=true" />
 </p>
