@@ -3,6 +3,19 @@
 
 ---
 
+### 🛠 Languages and Tools
+<p align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="48" alt="Flask" /> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="48" alt="Three.js" /> </p>
+
+---
+
 ### 🧭 About Me
 - 🎓 CS student graduating in **Summer 2025**
 - 🌐 Building fullstack projects with **HTML, CSS, JS, Python, SQL, React & Flask**
@@ -13,33 +26,27 @@
 
 ---
 
-### 🛠 Tech Stack
+### ✨ Featured Projects
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5&logoColor=orange" />
-  <img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=css3&logoColor=blue" />
-  <img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SQL-fff?style=for-the-badge&logo=postgresql&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Three.js-fff?style=for-the-badge&logo=three.js&logoColor=black" />
+  | 🌟 Project | 💬 Description |
+  |-----------|----------------|
+  | 🥗 **Meal Planner App** | Plan meals, track nutrition, and save recipes with Flask & SQL - Project with a final grade of 95% |
+  | 📚 **Library Manager** | Personal Python project to track and organize books |
+  | 🌌 **Galaxy Visualizer** | Interactive 3D galaxy built with Three.js |
+  | 🍎 **Nutrition Explorer** *(in progress)* | React app with API integration exploring health benefits of foods & nutrients |
 </p>
 
 ---
 
-### ✨ Featured Projects
-| 🌟 Project | 💬 Description |
-|-----------|----------------|
-| 🥗 **Meal Planner App** | Plan meals, track nutrition, and save recipes with Flask & SQL |
-| 📚 **Library Manager** | Personal Python project to track and organize books |
-| 🌌 **Galaxy Visualizer** | Interactive 3D galaxy built with Three.js |
-| 🍎 **Nutrition Explorer** *(in progress)* | React app exploring health benefits of foods & nutrients |
+### 🌿 Current Focus
+- 🧪 Learning more about **data analysis + visualization**
+- 🧠 Deepening my knowledge in **API's and React**
 
 ---
 
-### 🌿 Current Focus
-- 🧪 Exploring **data analysis + visualization**
-- 🧠 Learning **TypeScript** and deepening React skills
-- 🔍 Applying to **web + data roles** and refining projects
+### 📧 Open to Work in Projects
+- Contact me if you'd like to work with me 😋
+- misabelpcarmo@gmail.com
 
 ---
 
@@ -48,6 +55,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=luniballony&show_icons=true&hide_title=true&hide_border=true&bg_color=ffffff00&text_color=333&icon_color=6c63ff" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=luniballony&hide_border=true&background=FFFFFF00&stroke=0000&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" />
 </p>
-
-
-<p align="center">🕊️ *"Small steps. Big change. Always building."*</p>
