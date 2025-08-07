@@ -27,14 +27,12 @@
 ---
 
 ### ✨ Featured Projects
-<p align="center">
-  | 🌟 Project | 💬 Description |
-  |-----------|----------------|
-  | 🥗 **Meal Planner App** | Plan meals, track nutrition, and save recipes with Flask & SQL - Project with a final grade of 95% |
-  | 📚 **Library Manager** | Personal Python project to track and organize books |
-  | 🌌 **Galaxy Visualizer** | Interactive 3D galaxy built with Three.js |
-  | 🍎 **Nutrition Explorer** *(in progress)* | React app with API integration exploring health benefits of foods & nutrients |
-</p>
+| 🌟 Project | 💬 Description |
+|-----------|----------------|
+| 🥗 **Meal Planner App** | Plan meals, track nutrition, and save recipes with Flask & SQL - Project with a final grade of 95% |
+| 📚 **Library Manager** | Personal Python project to track and organize books |
+| 🌌 **Galaxy Visualizer** | Interactive 3D galaxy built with Three.js |
+| 🍎 **Nutrition Explorer** *(in progress)* | React app with API integration exploring health benefits of foods & nutrients |
 
 ---
 
@@ -53,5 +51,5 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luniballony&show_icons=true&hide_title=true&hide_border=true&bg_color=ffffff00&text_color=333&icon_color=6c63ff" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=luniballony&hide_border=true&background=FFFFFF00&stroke=0000&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=luniballony&theme=default&hide_border=true" />
 </p>
