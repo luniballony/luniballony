@@ -1,5 +1,5 @@
-<h1 align="center">🌿 Welcome to my GitHub! I'm Luniballony ( aka Matilde :) )</h1>
-<p align="center">✨ Web Developer • Future Data Enthusiast • Curious Creative ✨</p>
+<h1 align="center">🌿 Welcome to my GitHub! I'm Luniballony ( aka Matilde )</h1>
+<p align="center">✨ Web Developer • Data Enthusiast • Curious Creative ✨</p>
 
 ---
 
@@ -45,8 +45,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_border=true&bg_color=ffffff00&text_color=333&icon_color=6c63ff" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&hide_border=true&background=FFFFFF00&stroke=0000&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luniballony&show_icons=true&hide_title=true&hide_border=true&bg_color=ffffff00&text_color=333&icon_color=6c63ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=luniballony&hide_border=true&background=FFFFFF00&stroke=0000&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" />
 </p>
 
 
