@@ -22,7 +22,6 @@
 - 🌐 Building fullstack projects with **HTML, CSS, JS, Python, SQL, React & Flask**
 - 🍃 Currently working on a **React nutrition explorer** project
 - 📈 Diving into the world of **data science & analysis**
-- 📖 Writing a **cyberpunk novel** on the side (because why not?)
 - 🌎 Fluent in **English & Portuguese** — learning **German**
 
 ---
