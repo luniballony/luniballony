@@ -1,5 +1,5 @@
-<h1 align="center">🌿 Welcome to my GitHub! I'm Luniballony ( aka Matilde )</h1>
-<p align="center">✨ Web Developer • Data Enthusiast • Curious Creative ✨</p>
+<h1 align="center">🌿 Welcome to my GitHub! I'm Matilde 🌿 </h1>
+<p align="center">✨ Web Developer • Data Enthusiast • Curious & Creative ✨</p>
 
 ---
 
