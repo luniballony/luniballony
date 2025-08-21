@@ -3,7 +3,7 @@
 
 ---
 
-### 🛠 Languages and Tools
+### ✨ Languages and Tools
 <p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" title="JavaScript"/> &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" title="Python" /> &nbsp; 
@@ -17,28 +17,28 @@
 
 ---
 
-### 🧭 About Me
-- 🎓 CS student graduating in **Summer 2025**
-- 🌐 Building fullstack projects with **HTML, CSS, JS, Python, SQL, React & Flask**
-- 🍃 Currently working on a **React nutrition explorer** project
-- 📈 Diving into the world of **data science & analysis**
-- 🌎 Fluent in **English & Portuguese** — learning **German**
+### ✨ About Me
+- CS student graduating in **Summer 2025**
+- Building fullstack projects with **HTML, CSS, JS, Python, SQL, React & Flask**
+- Currently working on a **React nutrition explorer** project
+- Diving into the world of **data science & analysis**
+- Fluent in **English & Portuguese** — learning **German**
 
 ---
 
 ### ✨ Featured Projects
-| 🌟 Project | 💬 Description |
+|  Project |  Description |
 |-----------|----------------|
-| 🥗 **Meal Planner App** | Plan meals, track nutrition, and save recipes with Flask & SQL - Project with a final grade of 95% |
-| 📚 **Library Manager** | Personal Python project to track and organize books |
-| 🌌 **Galaxy Visualizer** | Interactive 3D galaxy built with Three.js |
-| 🍎 **Nutrition Explorer** *(in progress)* | React app with API integration exploring health benefits of foods & nutrients |
+| **Meal Planner App** | Plan meals, track nutrition, and save recipes with Flask & SQL - Project with a final grade of 95% |
+| **Library Manager** | Personal Python project to track and organize books |
+| **Galaxy Visualizer** | Interactive 3D galaxy built with Three.js |
+| **Nutrition Explorer** *(in progress)* | React app with API integration exploring health benefits of foods & nutrients |
 
 ---
 
-### 🌿 Current Focus
-- 🧪 Learning more about **data analysis + visualization**
-- 🧠 Deepening my knowledge in **API's and React**
+### ✨ Current Focus
+- Learning more about **data analysis + visualization**
+- Deepening my knowledge in **API's and React**
 
 ---
 
