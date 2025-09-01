@@ -45,10 +45,3 @@
 ### 📧 Open to Work in Projects
 - Contact me if you'd like to work with me 😋
 - misabelpcarmo@gmail.com
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luniballony&show_icons=true&hide_title=true&hide_border=true&bg_color=ffffff00&text_color=333&icon_color=6c63ff" />
-</p>
