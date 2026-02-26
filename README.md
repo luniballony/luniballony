@@ -18,7 +18,7 @@
 ---
 
 ### ✨ About Me
-- CS student graduating in **Summer 2025**
+- Web developer
 - Building fullstack projects with **HTML, CSS, JS, Python, SQL, React & Flask**
 - Currently working on a **React nutrition explorer** project
 - Diving into the world of **data science & analysis**
