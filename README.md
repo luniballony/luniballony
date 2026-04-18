@@ -32,7 +32,7 @@
 | **Meal Planner App** | Plan meals, track nutrition, and save recipes with Flask & SQL - Project with a final grade of 95% |
 | **Library Manager** | Personal Python project to track and organize books |
 | **Galaxy Visualizer** | Interactive 3D galaxy built with Three.js |
-| **Nutrition Explorer** *(in progress)* | React app with API integration exploring health benefits of foods & nutrients |
+| **Blume Beauty** *(in progress)* | E-Commerce React app with API integration to (mock-up) shop your favorite makeup products  |
 
 ---
 
