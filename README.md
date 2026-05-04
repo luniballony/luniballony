@@ -21,7 +21,7 @@
 ### ✨ About Me
 - Web developer
 - Building fullstack projects with **HTML, CSS, TS, JS, Python, SQL, React & Flask**
-- Currently working on a **e-commerce** project
+- Currently working on an **e-commerce** project
 - Always **learning** and working on **new projects**
 - Fluent in **English & Portuguese** — learning **German & French**
 
@@ -31,7 +31,7 @@
 |  Project |  Description |
 |-----------|----------------|
 | **Meal Planner App** | Plan meals, track nutrition, and save recipes with Flask & SQL - Project with a final grade of 95% |
-| **CRON Jobs Manager** Easily manage multiple Cron Jobs in real time |
+| **CRON Jobs Manager** | Easily manage multiple Cron Jobs in real time |
 | **Library Manager** | Personal Python project to track and organize books |
 | **Galaxy Visualizer** | Interactive 3D galaxy built with Three.js |
 | **Blume Beauty** *(in progress)* | E-Commerce React app with API integration to (mock-up) shop your favorite makeup products! |
